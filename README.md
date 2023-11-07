@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a Y2 Information Student from SMU
 
 <!--
 **adriank0h/adriank0h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
